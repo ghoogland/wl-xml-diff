@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WLXMLDiff", "WLXMLDiff\WLXMLDiff.csproj", "{30BF30A0-3D99-4773-BB4D-58C4E374F5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BF30A0-3D99-4773-BB4D-58C4E374F5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BF30A0-3D99-4773-BB4D-58C4E374F5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BF30A0-3D99-4773-BB4D-58C4E374F5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BF30A0-3D99-4773-BB4D-58C4E374F5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1185BFFD-6A87-4BE0-BF8E-99B788B279DF}
+	EndGlobalSection
+EndGlobal
